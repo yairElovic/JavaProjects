@@ -1,0 +1,6 @@
+[{"name":"Half Health2","description":"This will restore your health 50% of the way","price":10.0,"quantity":500,"healthValue":500,"productExternalId":24526},
+{"name":"Sniper Rifle2","description":"long range weapon","price":20.0,"quantity":1000,"damage":1000,"productExternalId":46999},
+{"name":"Pistol2","description":"close range weapon","price":50.0,"quantity":200,"damage":500,"productExternalId":41123},
+{"name":"Kevlar Vest2","description":"Bullet proof vest for torso","price":60.0,"quantity":1000,"strength":1000,"productExternalId":15630},
+{"name":"Full Health2","description":"This will restore your health to its maximum","price":500.0,"quantity":1000,"healthValue":1000,"productExternalId":31937},
+{"name":"Ceramic Vest2","description":"Protects against damage 500 and below","price":700.0,"quantity":500,"strength":500,"productExternalId":72623}]
